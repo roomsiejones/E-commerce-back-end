@@ -58,7 +58,7 @@ If you wish to make contributions, please contact me below, first.
 
 
 
-![Video demonstrating the usage]()
+![Video demonstrating the usage](https://github.com/roomsiejones/E-commerce-back-end/blob/main/E-commerce-test.gif?raw=true)
 ## Questions
 To contact me or report issues, please email me at jonathonrenaud1988@gmail.com
 Go to https://github.com/RoomsieJones to view my github profile.    
